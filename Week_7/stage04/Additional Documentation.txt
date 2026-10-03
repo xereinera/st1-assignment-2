@@ -20,13 +20,14 @@ Refractor
     requirements.
 
 Engineering Log
-    <mark>First prompt:</mark>
+    First prompt:
     Act as a Python pair programmer. Implement only the Appointment class from the
     approved SmartCare UML. Use type hints and an AppointmentStatus enum. Cancelled
     appointments remain as objects. Do not add database, UI, notification or service
     classes. Protect status transitions and explain any decision not directly visible
     in the UML.
-    <mark>Response</mark>
+
+    Response
     See Appointment_Implementation.py
     The AI generated an Appointment class that followed the approved UML design.
     It used type hints, an AppointmentStatus enum, and a custom exception to prevent
@@ -34,19 +35,23 @@ Engineering Log
     appointment status rather than deleting the object, and why database, UI,
     notification, and service-related functionality were excluded because they were
     not represented in the UML or required by the domain model.
-    <mark>Second prompt:</mark>
+
+    Second prompt:
     Act as a programmer. Simplify the Appointment implementation code as per the
     preestablished rules to ensure the quickest route possible.
-    <mark>Response</mark>
+
+    Response
     The AI reviewed the Appointment implementation and recommended keeping only
     the functionality required by the UML and lab instructions. Unnecessary features
     such as database access, user interface code, notifications, and additional
     service classes were excluded. The final implementation was kept simple by
     focusing only on appointment creation, status management, cancellation behaviour,
     and validation of status transitions.
-    <mark>Final prompt:</mark>
+
+    Final prompt:
     Can you review the following code for spelling, grammar, and logic errors?
-    <mark>Response</mark>
+
+    Response
     The AI reviewed the submitted code for spelling, grammar, readability, and
     logical consistency. It identified minor issues such as unclear comments, naming
     inconsistencies, and opportunities to improve documentation. The AI also checked
