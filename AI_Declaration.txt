@@ -1,0 +1,14 @@
+I have used the following Generative Artificial Intelligence (GenAI)
+tools/services in the preparation of this assessment:
+
+GenAI service name and version: Microsoft Pilot
+Link to the GenAI service: https://copilot.microsoft.com/
+Ways this GenAI service was used: The AI was used as per the instruction within this assignment and was used only
+in those tasks. The AI was further used to check spelling and grammar throughout text aspects of the assignment, however,
+any text was written by myself and all ideas are my own.
+
+I confirm that I have not used GenAI in the preparation of this assessment for
+any purpose other than what I have acknowledged above and I have cited and referenced
+any GenAI content in my assessment submission, applying the relevant referencing style.
+understand that providing false or misleading information in this Gen AI Acknowledgement
+Statement my constitute a breach of the University of Canberra (Student Conduct) Rules 2023.
