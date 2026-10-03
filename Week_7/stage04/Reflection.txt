@@ -1,0 +1,8 @@
+Which AI-generated part did you modify or reject? Why?
+    I rejected any AI code that confirmed any features that I did not want, such
+    as any database, notifications, or other unnecessary inheritance.
+
+How did the approved design constrain the AI?
+    The approved UML limited implementation to objects, relationships, attributes
+    and rules. This prevented AI from introducing any additional services or other
+    features not present in the initial design.
